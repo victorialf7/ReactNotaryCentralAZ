@@ -1,5 +1,5 @@
-import React, {Component} from "react";
-import { Jumbotron, Nav, Navbar, NavbarToggler, NavItem, NavLink } from "reactstrap";
+import React, { Component } from "react";
+import { Jumbotron, Nav, Navbar, NavbarToggler, NavItem, NavLink } from "react-router-dom";
 
 class Header extends Component {
     constructor(props) {
